@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: pooja
-        image: pooja1999/docker-file
+        image: pooja1999/pooja-kubernetes
         ports:
         - containerPort: 8000
